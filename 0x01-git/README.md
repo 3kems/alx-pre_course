@@ -1,1 +1,1 @@
-alx-pre_course
+Some text for this readme
